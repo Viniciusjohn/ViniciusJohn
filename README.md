@@ -1,4 +1,4 @@
-# Vinícius — Fullstack Engineer | AI Systems | Edge Computing
+# Vinícius — Engenheiro Fullstack | Sistemas de IA | Computação de borda
 
 Building real-world AI infrastructure, telemetry platforms, and production-grade backend systems.
 
